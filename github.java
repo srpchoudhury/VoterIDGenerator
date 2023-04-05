@@ -1,4 +1,4 @@
-//AgeLimitExceptions class
+//AgeLimitExceptions class file
 class AgeLimitException extends Exception{
 
     AgeLimitException(){
